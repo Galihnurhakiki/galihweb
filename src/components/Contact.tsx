@@ -21,7 +21,7 @@ export default function Contact() {
                 </div>
                 <div className="flex items-center space-x-4">
                   <FaPhone className="text-indigo-600" size={20} />
-                  <span className="text-gray-600">+1234567890</span>
+                  <span className="text-gray-600">+62 87739989046</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <FaMapMarkerAlt className="text-indigo-600" size={20} />
