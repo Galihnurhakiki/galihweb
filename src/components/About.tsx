@@ -1,7 +1,7 @@
 export default function About() {
   const personalInfo = {
     name: 'Galih Nurhakiki',
-    email: 'your.email@example.com',
+    email: 'galihnurhakiki45@gmail.com',
     dateOfBirth: '11 November, 1997',
     from: 'Indonesia'
   }

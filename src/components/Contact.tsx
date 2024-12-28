@@ -17,7 +17,7 @@ export default function Contact() {
               <div className="space-y-4">
                 <div className="flex items-center space-x-4">
                   <FaEnvelope className="text-indigo-600" size={20} />
-                  <span className="text-gray-600">your.email@example.com</span>
+                  <span className="text-gray-600">galihnurhakiki45@gmail.com</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <FaPhone className="text-indigo-600" size={20} />
@@ -51,7 +51,7 @@ export default function Contact() {
                   type="email"
                   id="email"
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
-                  placeholder="your.email@example.com"
+                  placeholder="galihnurhakiki45@gmail.com"
                 />
               </div>
               
